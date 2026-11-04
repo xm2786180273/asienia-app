@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "apkUrl": "https://github.com/xm2786180273/asienia-app/releases/download/v1.0.2/asienia-1.0.2.apk",
-  "changelog": "1. 侧滑返回改为回到主界面，不再直接退出。\n2. 主界面返回只退到后台，短时间内重新进入不刷新。\n3. 新增 App 内检查更新、下载与安装。",
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "apkUrl": "https://github.com/xm2786180273/asienia-app/releases/download/v1.0.3/asienia-1.0.3.apk",
+  "changelog": "1. 更新检查改用 GitHub API，并增加 jsDelivr 备用地址。\n2. 修复部分网络下 raw.githubusercontent.com 打不开导致检查失败。\n3. 保持侧滑回主界面与后台恢复不刷新。",
   "force": false,
-  "sha256": "80f6d4e19dc3541140597893a0158b3e37abc78a91bd0eacbd472035a15cfd4c"
+  "sha256": "f23f80e6201690965a389d6bedb9ad000673b013359406963f83fef5efdd903f"
 }
