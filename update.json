@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.6",
-  "apkUrl": "https://github.com/xm2786180273/asienia-app/releases/download/v1.0.6/asienia-1.0.6.apk",
-  "changelog": "1. 新增后台保活与原生系统通知，支持顶部横幅提醒。\n2. 修复朋友圈角色动态显示成我的头像。\n3. 修复进入角色朋友圈时标题显示“默认的全部朋友圈”，改为角色名称。\n4. 完整备份改为分块写入 Download/Asienia，修复备份写不出的问题。\n5. 此间板块的“默认”改为角色名。\n6. 阅读区侧滑/返回会正常弹出“是否同步聊天到主聊天”。",
+  "versionCode": 9,
+  "versionName": "1.0.8",
+  "apkUrl": "https://github.com/xm2786180273/asienia-app/releases/download/v1.0.8/asienia-1.0.8.apk",
+  "changelog": "1. 用户发完消息立即切后台，角色回复到点也会补发并弹系统通知。\n2. 后台保活脉冲改为每 10 秒一次，缩短后台回复延迟。\n3. 保留 v1.0.7 的通知开关、朋友圈、此间、阅读区和备份修复。",
   "force": false,
-  "sha256": "125ef89cc9ba89daf164571f8c6bc9e7ac36c02afeb52169b1b3fb470549a6d5"
+  "sha256": "5bce5b55ec62ee2fbb15685e4474cb3354f2a5f5cb1d632996f55a378e056273"
 }
