@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.8",
-  "apkUrl": "https://github.com/xm2786180273/asienia-app/releases/download/v1.0.8/asienia-1.0.8.apk",
-  "changelog": "1. 用户发完消息立即切后台，角色回复到点也会补发并弹系统通知。\n2. 后台保活脉冲改为每 10 秒一次，缩短后台回复延迟。\n3. 保留 v1.0.7 的通知开关、朋友圈、此间、阅读区和备份修复。",
+  "versionCode": 10,
+  "versionName": "1.0.9",
+  "apkUrl": "https://github.com/xm2786180273/asienia-app/releases/download/v1.0.9/asienia-1.0.9.apk",
+  "changelog": "1. 修复角色回信提醒显示“默认给你回了信”，改为角色名。\n2. 保留 v1.0.8 的后台待回复补发与系统通知。",
   "force": false,
-  "sha256": "5bce5b55ec62ee2fbb15685e4474cb3354f2a5f5cb1d632996f55a378e056273"
+  "sha256": "587bd6553979f85682c7e1c037aedcc55070b751095febd46f678b026e30cc12"
 }
