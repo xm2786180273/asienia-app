@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0.9",
-  "apkUrl": "https://github.com/xm2786180273/asienia-app/releases/download/v1.0.9/asienia-1.0.9.apk",
-  "changelog": "1. 修复角色回信提醒显示“默认给你回了信”，改为角色名。\n2. 保留 v1.0.8 的后台待回复补发与系统通知。",
+  "versionCode": 11,
+  "versionName": "1.0.10",
+  "apkUrl": "https://github.com/xm2786180273/asienia-app/releases/download/v1.0.10/asienia-1.0.10.apk",
+  "changelog": "1. 梦角点歌新增「只播放可完整播放的非会员歌曲」开关，默认关闭。\n2. 开启后随机点歌会跳过 VIP/付费/不可播放歌曲。\n3. 保留 v1.0.9 的角色回信名称与后台通知修复。",
   "force": false,
-  "sha256": "587bd6553979f85682c7e1c037aedcc55070b751095febd46f678b026e30cc12"
+  "sha256": "ed5c04abddf24f87d2df522cadf9bea19db497cd2d41b60962801d3e3d0cfd15"
 }
