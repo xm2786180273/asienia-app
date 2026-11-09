@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "1.0.10",
-  "apkUrl": "https://github.com/xm2786180273/asienia-app/releases/download/v1.0.10/asienia-1.0.10.apk",
-  "changelog": "1. 梦角点歌新增「只播放可完整播放的非会员歌曲」开关，默认关闭。\n2. 开启后随机点歌会跳过 VIP/付费/不可播放歌曲。\n3. 保留 v1.0.9 的角色回信名称与后台通知修复。",
+  "versionCode": 12,
+  "versionName": "1.0.11",
+  "apkUrl": "https://github.com/xm2786180273/asienia-app/releases/download/v1.0.11/asienia-1.0.11.apk",
+  "changelog": "1. 梦角点歌「只播放可完整播放的非会员歌曲」开启后改为校验真实音频时长，30~60 秒的试听片段会被跳过，不再出现三四分钟的歌只放几十秒。\n2. 修复 APK 升级后仍显示旧界面/旧功能的问题：原生壳内不再使用 Service Worker 旧缓存，升级后直接加载新版资源。\n3. 保留主界面一次一页翻页、后台通知、角色回信名称等修复。",
   "force": false,
-  "sha256": "ed5c04abddf24f87d2df522cadf9bea19db497cd2d41b60962801d3e3d0cfd15"
+  "sha256": "911b5592f5cf4715d01d5713b30b531404973cf5e22d15bceb0c62f9740cc013"
 }
